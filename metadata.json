@@ -1,0 +1,6 @@
+{
+  "name": "AI PPT Designer",
+  "description": "AI-powered presentation generator with conversational slide creation, multi-format document ingestion, and full online layer editing for text, shapes, and lines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
